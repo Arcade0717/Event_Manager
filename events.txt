@@ -1,2 +1,2 @@
-AllNightPrayer:26/9/22
-Hello:26/9/22
+AllNightPrayer,26/9/22
+Hello,26/9/22
